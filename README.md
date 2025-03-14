@@ -1,5 +1,9 @@
 # PDF to Audio Converter
 
+<p align="center">
+  <img src="assets/images/Screenshot 2025-03-14 153225.png" alt="PDF to Audio Converter Interface" width="600"/>
+</p>
+
 A Python-based application that converts PDF documents to audio files using Microsoft Edge's Text-to-Speech service.
 
 ## Features
